@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    background-color: rgb(136, 131, 172);
+    border-style: dashed;
+    color: rgb(32, 33, 30);
+    font-size: 50px;
+}
+
+body{
+    background-color: rgb(148, 155, 232);
+    
+}
+
+.content{
+    font-size: 36px;
+    background-color: bisque;
+
+}
+
+.container{
+    
+    
+    border: px solid rgb(6, 4, 9);
+}
+
+.content{
+    width: px;
+    height: px;
+
+    border: px solid rgb(145, 96, 194);
+    padding: 20px;
+    margin:85px;
+}
+
+.oleh{
+    font-family: georgia;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: rgb(241, 229, 229);
+    text-shadow: 10px 5px 5px rgb(9, 9, 9);
+    word-spacing: 0.5em;
+    letter-spacing: 5px;
+}
+
+h2{
+    font-size: 45px;
+}
+
+.click{
+    font-size: 30px;
+}
